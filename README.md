@@ -94,5 +94,4 @@ This project was developed as a self-initiated step to explore signal processing
 ## 👤 Author
 
 Quan Le  
-Master of Data Science – University of Technology Sydney  
 GitHub: https://github.com/quanlee003
